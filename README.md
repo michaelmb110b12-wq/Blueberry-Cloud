@@ -8,8 +8,7 @@ Only the existing **Games / GN-Math** sidebar entry is changed:
 
 - label becomes **Cine Cloud**;
 - icon becomes the Steam mark;
-- clicking it switches to GhostLink's existing **Scramjet** proxy browser and navigates to:
-  `https://michaelmb110b12-wq.github.io/Cine-Cloud-SRC/src/`
+- clicking it switches to GhostLink's existing **Scramjet** proxy browser 
 
 The proxy engine, service worker, BareMux/Epoxy transport, Wisp selection, tabs, address bar, and other GhostLink features remain upstream code.
 
