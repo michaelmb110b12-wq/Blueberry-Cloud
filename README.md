@@ -1,5 +1,5 @@
 # Blueberry GhostLink — Hostless v2
-
+# DO NOT FORK
 Hostless deployment recipe based on the current `virtuan4-max/ghostlinkhub` repository.
 
 ## Blueberry change
